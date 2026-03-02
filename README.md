@@ -1,4 +1,4 @@
-"LOCAL"
+LOCAL
 
 # project-merge
 
