@@ -1,3 +1,5 @@
+"LOCAL"
+
 # project-merge
 
-La vie est belle, franchement les nuages, les oiseaux ._.
+La vie est belle, franchement les nuages, les oiseaux .\_.
